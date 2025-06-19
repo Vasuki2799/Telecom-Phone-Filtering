@@ -74,7 +74,7 @@ To identify **best-value mobile phones** that meet specific needs such as:
 
 **Vasuki A**  
 📧 vasukiarul27@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/posts/vasuki27_datascience-python-telecom-activity-7341502953402306560-7DTO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM)
 
 
 
