@@ -70,6 +70,13 @@ To identify **best-value mobile phones** that meet specific needs such as:
 
  
 ---
+## Author
+
+**Vasuki A**  
+📧 vasukiarul27@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+
+
 
 ## 🚀 How to Run This Project
 
