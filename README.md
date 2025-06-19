@@ -100,13 +100,5 @@ jupyter notebook telecom_analysis.ipynb
 
 ---
 
-## Author
-
-**Vasuki A**  
-📧 vasukiarul27@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
-
-
-
 
 
