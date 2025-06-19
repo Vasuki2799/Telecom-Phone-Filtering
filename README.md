@@ -91,10 +91,12 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook telecom_analysis.ipynb
 
 ---
+
 ## Author
-Vasuki Arul
-📧 vasukiarul27@gmail.com
-🔗 LinkedIn
+
+**Vasuki A**  
+📧 vasukiarul27@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 
 
